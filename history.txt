@@ -1,0 +1,81 @@
+why is this so new
+    1  cd C:\Users\Hp
+    2  Is
+    3  Is /data
+    4  1s
+    5  ls
+    6  ls /data
+    7  ls /
+    8  pwd
+    9  mkdir Learning_unix
+   10  ls
+   11  cd Learning_unix
+   12  mkdir Outer_directory
+   13  cd Outer_directory
+   14  mkdir Inner_directory
+   15  cd Inner_directory
+   16  cd /
+   17  cd home
+   18  cd ubuntu
+   19  mkdir git-basic-exercises
+   20  cd git-basic-exercises
+   21  ls
+   22  git init
+   23  ls
+   24  git status
+   25  touch README.md
+   26  ls
+   27  git status
+   28  git log
+   29  git add README.md
+   30  git status
+   31  git commit -m "initial commit"
+   32  git status
+   33  git commit -m "initial commit"
+   34  git config --lorettakhisa15@gmail.com
+   35  git config --global user.email "lorettakhisa15@gmail.com"
+   36  git config --global user.name "Loretta"
+   37  git status
+   38  git commit -m "initial commit"
+   39  git log
+   40  q
+   41  exit
+   42  nano README.md
+   43  cat README.md
+   44  git status
+   45  git add
+   46  git stats
+   47  git status
+   48  git init
+   49  git status
+   50  git add README.md
+   51  git status
+   52  git commit -m "second commit"
+   53  nano README.md
+   54  cat README.md
+   55  git status
+   56  git add README.md
+   57  git commit -m "third commit"
+   58  git log
+   59  q
+   60  git checkout 6e6640d73f912dae9b92d6e571463bb87d41300
+   61  git checkout 6e6640d73f912daea9b92d6e571463bb87d41300
+   62  cat README.md
+   63  git checkout main
+   64  cat README.md
+   65  git branch
+   66  git branch milkshake_flavors
+   67  git branch
+   68  git checkout milkshake_flavors
+   69  git branch
+   70  nano milkshakes.md
+   71  git status
+   72  git add milkshakes.md
+   73  git status
+   74  git commit -m "added initial flavors"
+   75  git checkout master
+   76  git branch history
+   77  git checkout history
+   78  git log
+   79  git branch
+   80  history > history.txt
